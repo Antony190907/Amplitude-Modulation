@@ -143,5 +143,6 @@ plot(t,eAM);
  
 
 
-RESULT:
+**RESULT:**
+
 Thus the amplitude modulation is experimentally done and the output is verified.

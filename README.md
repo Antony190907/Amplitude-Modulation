@@ -1,6 +1,6 @@
-<img width="2376" height="1110" alt="IMG_20261102_205241_edit_141679918308589 jpg" src="https://github.com/user-attachments/assets/0d5d3a3c-6bc4-455b-87c3-990d7ff6401e" /># Amplitude-Modulation
+# AMPLITUDE MODULATION
 
-# EXP NO: 1	GENERATION AND DETECTION OF AM
+# EXP NO: 1	AMPLITUDE MODULATION using SCILAB
 
 **AIM:**
 
